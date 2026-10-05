@@ -1,0 +1,6 @@
+{
+  "name": "TurnOver - 失敗を明日の行動に変える学習改善ノート",
+  "description": "夜の短いふりかえりからAIができなかった点を抽出し、翌朝すぐにできる改善アクションへ自動変換。毎日の学習ストリークと改善ポイントで学習の質を高めるノートアプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
